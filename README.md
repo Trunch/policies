@@ -3,4 +3,5 @@ Policies
 
 Mirror of policies forked from the Stumptown Syndicate ones and periodically adapted for the trunch/drunch/trollcon etc. 
 
-* [Troll Code of Conduct](citizen_code_of_conduct.md): Templated Code of Conduct for use groups, projects, and events.
+* [Troll Code of Conduct](troll_code_of_conduct.md): The Holy Trolls Code of Conduct.
+* [Reporting Guidelines](reposrting_guidelines.md): How to report an abuse or violation of the code?
