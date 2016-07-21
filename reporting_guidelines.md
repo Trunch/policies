@@ -1,6 +1,8 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to the Stumptown Syndicate by emailing conduct@stumptownsyndicate.org. 
+If you believe someone is violating the code of conduct we ask that you report it to the #policies channel on slack.
+
+**WARNING:** It's a public channel so just ping there and someone will contact you on private to provide further assitance.
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -51,3 +53,4 @@ Only permanent resolutions (such as bans) may be appealed. To appeal a decision 
 
 _Revision 1.0, DRAFT, proposed June 2014_
 _Reporting Guidlines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
+_Updated for TRUNCH, July 21 2016_
